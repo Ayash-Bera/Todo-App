@@ -1,5 +1,4 @@
-Here’s a fun and cheeky README for your to-do list:
-
+Sam's Sex List
 ---
 
 # 🔥 **Kinky To-Do List** 🔥
