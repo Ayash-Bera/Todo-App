@@ -18,6 +18,9 @@ Welcome to your *naughty* little productivity helper. Get ready to check things 
 git clone (https://github.com/SamannyoPal/Todo-App.git)
 npm install
 npm run dev
+```
+open another terminal
+```bash
 cd rust
 cargo run
 cd..
